@@ -21,3 +21,7 @@ This project is a Tableau dashboard created using the Sample Superstore dataset.
 
 ## File
 Sales_Performance_Dashboard.twbx
+## Author
+
+Siva Harshika Kintali  
+Computer Science and Engineering - Data Science
